@@ -1,0 +1,22 @@
+h1 {
+    color: white;
+}
+
+body {
+    background: black;
+}
+
+p {
+    color: white;
+}
+
+body {
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+button {
+    margin: auto;
+}
